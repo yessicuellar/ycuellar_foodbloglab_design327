@@ -1,1 +1,3 @@
-# ycuellar_foodbloglab_design327
+# ycuellar_foodbloglab_design327 
+Hello Professor, to be honest I'm really struggling with advanced css. Which is why my labs have been late, or lack of turning in toy store and basic webpage lab(web font one).
+I really struggled with this lab a lot. 1. I couldn't get the header to turn black no matter what I did. 2. I couldn't get the float text around the image to margin right and bottom. 3. I couldn't get the footer black bar centered. 4. The header logo I couldn't figur out how to get it on top. 5.I couln't get the ad part in a red box and I was confused on the fix position right. I tried but I didn't work. Could you please help me. 
